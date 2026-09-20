@@ -1,1 +1,3 @@
 One of the multiple repositories created to store my assignment done in the summer 26 cohort at Zenmonk Mohali
+
+I successfully completed a 6-week Front-End Development internship at Zenmonk Software and Services Pvt. Ltd. from 23rd June 2026 to 4th August 2026. During the internship, I gained hands-on experience in modern web development, including responsive UI design, component-based development, state management, and building interactive web applications. This experience helped me strengthen my technical and problem-solving skills while gaining practical exposure to real-world software development. The internship was completed as part of my B.E. in Computer Science Engineering at Chandigarh College of Engineering and Technology (CCET).
